@@ -62,4 +62,5 @@ This will create a scrapy_tutoriel directory with the following contents:
 
 ![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/scrapy_tree.png)
  
+### 4. Creating a Scrapy project
 
