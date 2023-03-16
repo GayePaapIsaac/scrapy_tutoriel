@@ -43,7 +43,7 @@ Installation of the virtual environment:
 Creation of a virtual environment in a desired refectory:
 `virtualenv install ditenv`
 
-Enable scrapy_venv
+Enable ditenv :
 `source/ditenv/bin/activate`
 
  We can now install scrapy using pip by running the following command in the terminal:
