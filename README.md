@@ -1,21 +1,15 @@
 # scrapy_tutoriel
 ### Content
-Content
-    -Introduction to Scrapy: The Data Collection Framework for the Web
-    -1. What is Scrapy?
-    -2. Architecture of Scrapy
-    -3. Installing Scrapy
-     -     Get started on ubuntu
-    -4. Creating a Scrapy project
-    -5. Creating a Scrapy Spider
-    -6. Storage of collected data
-    -7. Closing
-### Ordered List
 
-1. First item
-2. Second item
-3. Third item
-
+1. Introduction to Scrapy: The Data Collection Framework for the Web
+2. What is Scrapy?
+3. Architecture of Scrapy       
+4. Installing Scrapy
+     Get started on ubuntu
+5. Creating a Scrapy project
+6. Creating a Scrapy Spider
+7. Storage of collected data
+8. conclusion
 
 ## Basic Syntax
 
