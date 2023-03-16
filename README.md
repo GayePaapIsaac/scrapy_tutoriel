@@ -64,4 +64,8 @@ This will create a scrapy_tutoriel directory with the following contents:
  
 ### 4. Creating a Scrapy project
 The entry point of the project is the spider. We are going to create a new file in the spiders folder that we are going to call "first_scraping.py"
-A spider is a program that crawls websites to extract data. To create a spider you can use the following command
+
+In this file, we will create the class that will inherit from spider
+The Spider class is the base class used to create spiders in Scrapy. It provides basic functionality for extracting data from websites. Each spider must be a subclass of the Spider class, and must define at least the name and start_urls attributes. Here is an example definition of the Spider class:
+
+![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/spyder_and_parse.png)
