@@ -36,13 +36,14 @@ The architecture of Scrapy is based on a few key components:
 
 ### 3. Installing Scrapy
 To get started with Scrapy on Ubuntu, we will first install it in a virtual environment.
+##### 
 Installation of the virtual environment:
-'pip install virtualenv'
+`pip install virtualenv`
 
 Creation of a virtual environment in a desired refectory:
-'virtualenv install scrapy_venv'
+`virtualenv install scrapy_venv`
 Enable scrapy_venv
-'source/scraoy_venv/bin/activate'
+`source/scraoy_venv/bin/activate`
 
  We can now install scrapy using pip by running the following command in the terminal:
  
