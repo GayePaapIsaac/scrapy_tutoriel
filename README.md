@@ -52,3 +52,5 @@ Enable scrapy_venv
  To check if it is well installed let's execute the command : `scrapy version `
  ![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/activationvirtualenv.png)
  
+This proves that scrapy is well installed in our virtual environment
+
