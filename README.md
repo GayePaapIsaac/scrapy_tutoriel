@@ -13,6 +13,7 @@
 8. conclusion
 ---
 ## Basic Syntax
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
