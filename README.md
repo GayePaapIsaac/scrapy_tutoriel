@@ -47,4 +47,9 @@ Enable scrapy_venv
 `source/scraoy_venv/bin/activate`
 
  We can now install scrapy using pip by running the following command in the terminal:
+ `pip install Scrapy`
+ 
+ To check if it is well installed let's execute the command : `scrapy version `
+ 
+
  
