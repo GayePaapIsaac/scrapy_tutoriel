@@ -23,13 +23,10 @@ Scrapy is an open-source data collection framework used for web scraping and web
 ### 2. Architecture of Scrapy
 The architecture of Scrapy is based on a few key components:
 
-[Spiders]: These are the main components of Scrapy that define how to navigate websites and extract data. They are responsible for sending HTTP requests, processing the responses, and storing the extracted data.
+*Spiders*: These are the main components of Scrapy that define how to navigate websites and extract data. They are responsible for sending HTTP requests, processing the responses, and storing the extracted data.
 
-[Item Pipeline]: Once the data is extracted by the spider, it is passed to the Item Pipeline, which is a series of processing steps that can modify or filter the data before it is stored.
+*Item Pipeline*: Once the data is extracted by the spider, it is passed to the Item Pipeline, which is a series of processing steps that can modify or filter the data before it is stored.
 
-[Downloader]:This component is responsible for sending HTTP requests and handling responses. It is used by the spiders to make requests to websites and APIs.
+*Downloader*:This component is responsible for sending HTTP requests and handling responses. It is used by the spiders to make requests to websites and APIs.
 
-[Scheduler]: This component manages the queue of requests and ensures that the spiders don't overload the target website.
-### Heading
-Tutoriel  framework scrapy on python 
-voir le sommaire
+*Scheduler*: This component manages the queue of requests and ensures that the spiders don't overload the target website.
