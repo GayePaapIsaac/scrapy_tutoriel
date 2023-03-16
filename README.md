@@ -11,7 +11,7 @@
 6. Creating a Scrapy Spider
 7. Storage of collected data
 8. conclusion
-
+---
 ## Basic Syntax
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
