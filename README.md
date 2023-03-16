@@ -59,6 +59,6 @@ Next, you can create a Scrapy spider by running the following command:
 `scrapy startproject scrapy_tutoriel` 
 the name of our project will be scrapy_tutoriel
 This will create a scrapy_tutoriel directory with the following contents:
-![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/Capture d’écran du 2023-03-16 10-02-10.png)
+![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/scrapy_tree.png)
  
 
