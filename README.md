@@ -30,3 +30,7 @@ The architecture of Scrapy is based on a few key components:
 *Downloader*:This component is responsible for sending HTTP requests and handling responses. It is used by the spiders to make requests to websites and APIs.
 
 *Scheduler*: This component manages the queue of requests and ensures that the spiders don't overload the target website.
+
+### graphic illustration
+![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/scrapy_architecture_02.png)
+
