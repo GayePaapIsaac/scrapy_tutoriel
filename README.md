@@ -12,10 +12,11 @@
 7. Storage of collected data
 8. conclusion
 ---
-## Basic Syntax
+#### let's go
 ![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/logoscrapy.png)
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+## 1. Introduction to Scrapy
+
 
 ### Heading
 Tutoriel  framework scrapy on python 
