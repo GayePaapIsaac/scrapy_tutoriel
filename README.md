@@ -1,6 +1,7 @@
 # scrapy_tutoriel
 ### Content
-
+###
+---
 1. Introduction to Scrapy: The Data Collection Framework for the Web
 2. What is Scrapy?
 3. Architecture of Scrapy       
