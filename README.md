@@ -42,6 +42,7 @@ Installation of the virtual environment:
 
 Creation of a virtual environment in a desired refectory:
 `virtualenv install scrapy_venv`
+
 Enable scrapy_venv
 `source/scraoy_venv/bin/activate`
 
