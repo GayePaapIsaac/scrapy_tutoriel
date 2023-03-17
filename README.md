@@ -69,3 +69,21 @@ In this file, we will create the class that will inherit from spider
 The Spider class is the base class used to create spiders in Scrapy. It provides basic functionality for extracting data from websites. Each spider must be a subclass of the Spider class, and must define at least the name and start_urls attributes. Here is an example definition of the Spider class:
 
 ![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/spyder_and_parse.png)
+
+The parse() method is the main data extraction method in Scrapy. This method is called for each page downloaded by the spider, and must return scrapy.Request or scrapy.Item objects. Here is an example definition of the parse() method:
+
+```
+import scrapy
+
+class fnac_spyder(scrapy.Spider):
+    name= 'fnac_scraping'
+	   start_urls=['https://www.jumia.ci/']
+
+	   def parse(self, response) : 
+		      dic_article={
+		        'article':response.css('div.name::text').getall(),
+		        'article_price':response.css('div.prc::text').getall()
+		       }
+		
+		   yield dic_article
+```
