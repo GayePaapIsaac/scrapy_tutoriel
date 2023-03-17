@@ -87,3 +87,8 @@ class fnac_spyder(scrapy.Spider):
 		
 		   yield dic_article
 ```
+### parse fonction detail
+The parse() function is a key method of the Scrapy framework, which allows to browse and extract information from a web page using predefined selection rules. This function is important because it allows you to transform the HTML content of the page into a data structure that is easier to manipulate and analyze.
+
+Scrapy's parse() function is an essential tool for extracting data in an efficient and structured way from web pages. It makes it easy to navigate web pages and handle errors, which greatly facilitates the work of developers and data analysts.
+
