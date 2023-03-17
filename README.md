@@ -62,7 +62,7 @@ This will create a scrapy_tutoriel directory with the following contents:
 
 ![alt text](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/img/scrapy_tree.png)
  
-### 4. Creating a Scrapy project
+### 5. Creating a Scrapy project
 The entry point of the project is the spider. We are going to create a new file in the spiders folder that we are going to call "first_scraping.py"
 
 In this file, we will create the class that will inherit from spider
@@ -91,4 +91,14 @@ class fnac_spyder(scrapy.Spider):
 The parse() function is a key method of the Scrapy framework, which allows to browse and extract information from a web page using predefined selection rules. This function is important because it allows you to transform the HTML content of the page into a data structure that is easier to manipulate and analyze.
 
 Scrapy's parse() function is an essential tool for extracting data in an efficient and structured way from web pages. It makes it easy to navigate web pages and handle errors, which greatly facilitates the work of developers and data analysts.
+
+### 6. Storage of collected data
+##### How to run our spider
+To put our spider to work, go to the project’s top level directory and run:
+`scrapy crawl fnac_scraping` 
+This command runs the spider with the name fnac_scraping we just added.
+We will execute this same command by adding the parameter -o response.json
+this will automatically create a response.json file containing our extracted data.
+we thus obtain :
+` scrapy crawl fnac_scraping -O response.json` 
 
