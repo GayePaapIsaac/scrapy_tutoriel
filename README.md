@@ -77,7 +77,7 @@ import scrapy
 
 class fnac_spyder(scrapy.Spider):
     name= 'fnac_scraping'
-	   start_urls=['https://www.jumia.ci/']
+	   start_urls=['https://www.fnac.com/']
 
 	   def parse(self, response) : 
 		      dic_article={
