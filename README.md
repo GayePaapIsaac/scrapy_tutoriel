@@ -106,7 +106,7 @@ we thus obtain :
 Congratulations on completing your Scrapy tutorial! You should now have a solid understanding of the parse function in this framework, which is one of the key elements for efficiently extracting data from websites. With Scrapy, you can automate the process of data extraction, save time, and get accurate and consistent results. We hope that this tutorial has been helpful to you and that you will be able to apply it in your future data extraction projects.
 
 here is the source of your tutorial:
-[documentation]([https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/DIT_tutoriel_scrapy/DIT_tutoriel_scrapy/spiders/reponse.json](https://docs.scrapy.org/))
+[documentation](https://docs.scrapy.org/)
 
 This page is the official documentation of Scrapy, which provides comprehensive information about the framework including guides, tutorials, and references. It's a valuable resource for learning how to use Scrapy and for troubleshooting common issues when extracting data from websites.
 
