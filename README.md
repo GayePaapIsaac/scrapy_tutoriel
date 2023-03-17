@@ -101,4 +101,17 @@ We will execute this same command by adding the parameter -o response.json
 this will automatically create a response.json file containing our extracted data.
 we thus obtain :
 ` scrapy crawl fnac_scraping -O response.json` 
-see the following file:  [reponse.json](https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/DIT_tutoriel_scrapy/DIT_tutoriel_scrapy/spiders/reponse.json)
+
+### conclusion
+Congratulations on completing your Scrapy tutorial! You should now have a solid understanding of the parse function in this framework, which is one of the key elements for efficiently extracting data from websites. With Scrapy, you can automate the process of data extraction, save time, and get accurate and consistent results. We hope that this tutorial has been helpful to you and that you will be able to apply it in your future data extraction projects.
+
+here is the source of your tutorial:
+[source scrapy tutoriel]([https://github.com/GayePaapIsaac/scrapy_tutoriel/blob/tuto/DIT_tutoriel_scrapy/DIT_tutoriel_scrapy/spiders/reponse.json](https://docs.scrapy.org/))
+
+This page is the official documentation of Scrapy, which provides comprehensive information about the framework including guides, tutorials, and references. It's a valuable resource for learning how to use Scrapy and for troubleshooting common issues when extracting data from websites.
+
+some useful links for the good understanding of this tutorial:
+ 
+https://youtu.be/BqptmmB3BZY
+
+https://youtu.be/48GDX5_2ebQ
